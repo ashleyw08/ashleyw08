@@ -1,4 +1,4 @@
-![Banner(1)](https://user-images.githubusercontent.com/8643145/145435576-ce702b5c-f01c-4f88-9767-d2fa8948a36e.jpg)
+
 
 Hello I'm Ashley! I am a programmer who is eager to expand my skll set and gain more professional experience. Mobile App Developer has always been my number one career goal, 
 but full stack development has recently peaked my interest too. I'm currently engaging in the spring framework and experimenting with android app development. Even though I
